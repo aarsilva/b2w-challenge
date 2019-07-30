@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/b2w-challenge/static/js/main.14d8d651.chunk.js",
+    "main.js.map": "/b2w-challenge/static/js/main.14d8d651.chunk.js.map",
+    "runtime~main.js": "/b2w-challenge/static/js/runtime~main.6651e104.js",
+    "runtime~main.js.map": "/b2w-challenge/static/js/runtime~main.6651e104.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/b2w-challenge/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.66ebdc7e.chunk.js": "/b2w-challenge/static/js/2.66ebdc7e.chunk.js",
+    "static/js/2.66ebdc7e.chunk.js.map": "/b2w-challenge/static/js/2.66ebdc7e.chunk.js.map",
+    "index.html": "/b2w-challenge/index.html",
+    "precache-manifest.f4c18bd3c58d77f5dd0eaea3f5f16846.js": "/b2w-challenge/precache-manifest.f4c18bd3c58d77f5dd0eaea3f5f16846.js",
+    "service-worker.js": "/b2w-challenge/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/b2w-challenge/static/css/2.22a7d4ef.chunk.css.map",
+    "static/media/logo.svg": "/b2w-challenge/static/media/logo.31c8c115.svg",
+    "static/media/star-bkg.png": "/b2w-challenge/static/media/star-bkg.e536237c.png"
+  }
+}
